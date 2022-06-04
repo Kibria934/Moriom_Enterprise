@@ -1,0 +1,16 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.codeActionsOnSave": {
+    
+    },
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorWidth": 2,
+    "editor.formatOnSave": true,
+    "files.autoGuessEncoding": true,
+    "editor.fontLigatures": true,
+    "editor.language.brackets": [
+    
+    ]
+}

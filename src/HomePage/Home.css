@@ -1,0 +1,111 @@
+.hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.65)),
+    url(https://i.ibb.co/PDDrK8z/yulian-alexeyev-x-DLEUTWCZdc-unsplash.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.header-tag {
+  font-family: "Merienda", cursive;
+  opacity: 1;
+  z-index: 999;
+  text-shadow: 0px 11px 10px rgba(0, 0, 0, 0.9);
+}
+.read-more {
+  transform: translateX(-320px);
+  font-size: 30px;
+  margin-top: 10px;
+  transition: 1s;
+}
+.card-box:hover .read-more {
+  transform: translateX(0px);
+  font-size: 16px;
+}
+.f-tag {
+  text-shadow: 0px 11px 10px rgba(81, 67, 21, 0.4);
+  text-transform: uppercase;
+}
+.wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: 40px;
+  transform: translate(-50%, -50%);
+}
+
+.link_wrapper {
+  position: absolute;
+  top: 70px;
+  right: -100px;
+}
+
+.a {
+  display: block;
+  width: 250px;
+  height: 50px;
+  line-height: 50px;
+  font-weight: bold;
+  text-decoration: none;
+  background: #2596be;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: all 0.8s;
+  border-radius: 10px;
+}
+
+.icon {
+  width: 50px;
+  height: 50px;
+  border: 3px solid transparent;
+  position: absolute;
+  transform: rotate(45deg);
+  right: 0;
+  top: 0;
+  z-index: -1;
+  transition: all 0.35s;
+}
+
+.svg {
+  width: 30px;
+  position: absolute;
+  top: calc(50% - 15px);
+  left: calc(50% - 15px);
+  transform: rotate(-45deg);
+  fill: #2ecc71;
+  transition: all 0.35s;
+}
+
+.a:hover {
+  width: 200px;
+  border: 3px solid #2ecc71;
+  background: transparent;
+  color: #2ecc71;
+}
+
+.a:hover + .icon {
+  border: 3px solid #2ecc71;
+  right: -25%;
+}
+.a:active + .icon {
+  background-color: #2ecc71;
+  color: white;
+}
+span[title]:hover:after {
+  content: attr(title);
+  padding: 40px 8px;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  z-index: 1;
+  background: red;
+}
+.feature {
+  border-left: 4px solid rgb(11, 118, 160);
+  display: inline;
+  padding: 8px;
+  width: 100%;
+  justify-content: center;
+}
