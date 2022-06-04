@@ -1,17 +1,25 @@
 import React from "react";
 import Banner from "./Banner";
 import Feature from "./Feature";
+import Fertilizer from "./Fertilizer";
 import "./Home.css";
-import Items from "./Items";
 import Products from "./Products";
+import Review from "./Review";
 
 const Home = () => {
   return (
-    <div>
-      <Banner />
-      <Feature />
-      <Items />
-    </div>
+    <>
+      {" "}
+      <div>
+        <Banner />
+        <Feature />
+        <div>
+          <Products />
+        </div>
+        {/* <Fertilizer /> */}
+      </div>
+      <Review />
+    </>
   );
 };
 

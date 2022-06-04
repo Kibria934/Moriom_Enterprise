@@ -93,7 +93,7 @@
   background-color: #2ecc71;
   color: white;
 }
-span[title]:hover:after {
+/* span[title]:hover:after {
   content: attr(title);
   padding: 40px 8px;
   position: absolute;
@@ -101,11 +101,23 @@ span[title]:hover:after {
   top: 100%;
   z-index: 1;
   background: red;
-}
+} */
 .feature {
   border-left: 4px solid rgb(11, 118, 160);
   display: inline;
   padding: 8px;
   width: 100%;
   justify-content: center;
+}
+.review {
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.05),
+      rgba(96, 96, 96, 0.05)
+    ),
+    url(https://images.unsplash.com/photo-1521571086300-579bd981bbb6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 40vh;
+  padding: 5px 20px;
 }

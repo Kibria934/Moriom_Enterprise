@@ -1,0 +1,110 @@
+[
+    {
+        "id": "1",
+        "name": "Amistat Top",
+        "price": "220",
+        "img": "https://agroshopy.com/image/cache/catalog/AMI%20TOP-500x500.jpg",
+        "des": "Our solutions protect crops against weeds, insects and diseases. They also include technologies that support strong and healthy plant growth.",
+        "type": "pesticides",
+        "rating": ""
+    },
+    {
+        "id": "2",
+        "name": "Amistat Top",
+        "price": "220",
+        "img": "https://agroshopy.com/image/cache/catalog/AMI%20TOP-500x500.jpg",
+        "des": "Our solutions protect crops against weeds, insects and diseases. They also include technologies that support strong and healthy plant growth.",
+        "type": "pesticides",
+        "rating": ""
+    },
+    {
+        "id": "3",
+        "name": "Amistat Top",
+        "price": "220",
+        "img": "https://agroshopy.com/image/cache/catalog/AMI%20TOP-500x500.jpg",
+        "des": "Our solutions protect crops against weeds, insects and diseases. They also include technologies that support strong and healthy plant growth.",
+        "type": "pesticides",
+        "rating": ""
+    },
+    {
+        "id": "4",
+        "name": "Amistat Top",
+        "price": "220",
+        "img": "https://agroshopy.com/image/cache/catalog/AMI%20TOP-500x500.jpg",
+        "des": "Our solutions protect crops against weeds, insects and diseases. They also include technologies that support strong and healthy plant growth.",
+        "type": "pesticides",
+        "rating": ""
+    },
+    {
+        "id": "5",
+        "name": "dio amoniam fosphete",
+        "price": "220",
+        "img": "https://images.unsplash.com/photo-1637500980709-6e65a6c2418a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+        "des": "Our solutions protect crops against weeds, insects and diseases. They also include technologies that support strong and healthy plant growth.",
+        "type": "fertilizer",
+        "rating": ""
+    },
+    {
+        "id": "6",
+        "name": "Dio amoniam fosphete",
+        "price": "220",
+        "img": "https://images.unsplash.com/photo-1637500980709-6e65a6c2418a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+        "des": "Our solutions protect crops against weeds, insects and diseases. They also include technologies that support strong and healthy plant growth.",
+        "type": "fertilizer",
+        "rating": ""
+    },
+    {
+        "id": "7",
+        "name": "Dio amoniam fosphete",
+        "price": "220",
+        "img": "https://images.unsplash.com/photo-1637500980709-6e65a6c2418a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+        "des": "Our solutions protect crops against weeds, insects and diseases. They also include technologies that support strong and healthy plant growth.",
+        "type": "fertilizer",
+        "rating": ""
+    },
+    {
+        "id": "8",
+        "name": "Dio amoniam fosphete",
+        "price": "220",
+        "img": "https://images.unsplash.com/photo-1637500980709-6e65a6c2418a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+        "des": "Our solutions protect crops against weeds, insects and diseases. They also include technologies that support strong and healthy plant growth.",
+        "type": "fertilizer",
+        "rating": ""
+    },
+    {
+        "id": "9",
+        "name": "Cow Milk",
+        "price": "220",
+        "img": "https://images.unsplash.com/photo-1634141510639-d691d86f47be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGRhaXJ5JTIwcHJvZHVjdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "des": "Our solutions protect crops against weeds, insects and diseases. They also include technologies that support strong and healthy plant growth.",
+        "type": "food",
+        "rating": ""
+    },
+    {
+        "id": "10",
+        "name": "Cow Milk",
+        "price": "220",
+        "img": "https://images.unsplash.com/photo-1634141510639-d691d86f47be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGRhaXJ5JTIwcHJvZHVjdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "des": "Our solutions protect crops against weeds, insects and diseases. They also include technologies that support strong and healthy plant growth.",
+        "type": "food",
+        "rating": ""
+    },
+    {
+        "id": "11",
+        "name": "Cow Milk",
+        "price": "220",
+        "img": "https://images.unsplash.com/photo-1634141510639-d691d86f47be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGRhaXJ5JTIwcHJvZHVjdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "des": "Our solutions protect crops against weeds, insects and diseases. They also include technologies that support strong and healthy plant growth.",
+        "type": "food",
+        "rating": ""
+    },
+    {
+        "id": "12",
+        "name": "Cow Milk",
+        "price": "220",
+        "img": "https://images.unsplash.com/photo-1634141510639-d691d86f47be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGRhaXJ5JTIwcHJvZHVjdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "des": "Our solutions protect crops against weeds, insects and diseases. They also include technologies that support strong and healthy plant growth.",
+        "type": "food",
+        "rating": ""
+    }
+]
